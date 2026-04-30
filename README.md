@@ -38,7 +38,6 @@ Bash
 
 
 
-```txt
 ~/active_projects
 ├── 🌸 Wallflower/
 │   └── telegram-integrated monitoring & alerting system
@@ -52,9 +51,6 @@ Bash
 └── 🛠️ Converto/
     └── lightweight all-in-one utility & file conversion suite
 ```
-
-
-
 
 
 ```txt
