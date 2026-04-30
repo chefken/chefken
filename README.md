@@ -1,8 +1,5 @@
-<div align="center">
+#<font face="Courier New">KEN SONY</font>
 
-# 👨‍💻 KEN SONY
-
-![](https://komarev.com/ghpvc/?username=chefken&color=00ff9c&style=flat)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Flutter+Developer;Network+Security+Researcher;Building+impactful+tools;Co-Lead+@+TinkerHub+MITS" />
 
