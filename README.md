@@ -127,7 +127,7 @@ network_latency     : optimized
 
 ---
 
-## 📊 system_metrics.sh
+## 📊 
 
 <div align="center">
 
@@ -143,7 +143,7 @@ network_latency     : optimized
 
 <div align="center">
 
-## 🌐 connect --with-me
+## 🌐 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kensony0410/)
 
