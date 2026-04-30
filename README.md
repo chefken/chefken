@@ -1,7 +1,19 @@
-# <font face="Courier New">KEN SONY</font>
+<div align="center">
 
+# KEN SONY
+
+### `cybersecurity student • builder • linux enjoyer`
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Flutter+Developer;Network+Security+Researcher;Building+impactful+tools;Co-Lead+@+TinkerHub+MITS" />
+
+<br>
+
+<img src="https://img.shields.io/badge/OS-Ubuntu-111111?style=flat-square&logo=ubuntu">
+<img src="https://img.shields.io/badge/Editor-VSCode-111111?style=flat-square&logo=visualstudiocode">
+<img src="https://img.shields.io/badge/Shell-Zsh-111111?style=flat-square&logo=gnubash">
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-111111?style=flat-square">
+
+</div>
 
 </div>
 
