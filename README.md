@@ -19,8 +19,9 @@
 </p>
 
 ```bash
-ken@github:~$ skill-check
+chef@github:~$ skill-check
 
+[✓] total beginner yup
 [✓] cybersecurity
 [✓] flutter ui
 [✓] linux
@@ -42,9 +43,6 @@ Bash
 ├── 🌸 Wallflower/
 │   └── telegram-integrated monitoring & alerting system
 
-├── 🌐 Peering-Portal/
-│   └── BGP visualization & network observability platform
-
 ├── 💻 ChefShell/
 │   └── custom linux terminal experiment & shell environment scripts
 
@@ -55,53 +53,20 @@ Bash
     └── lightweight all-in-one utility & file conversion suite
 ```
 
----
 
-```bash
-$ cat research_interests.log
-```
 
-```txt
-[+] Cybersecurity
-    └─ penetration testing
-    └─ vulnerability assessment
-    └─ network protocol analysis
-    └─ automated security auditing
 
-[+] UI & Development
-    └─ flutter cross-platform apps
-    └─ minimalist & intentional design
-    └─ interaction-focused experiences
-    └─ clean modern interfaces
-
-[+] Networking & Systems
-    └─ BGP & global routing dynamics
-    └─ infrastructure observability
-    └─ custom shell environments
-    └─ linux system hardening
-```
-
----
-
-```bash
-$ neofetch --skills
-```
 
 ```txt
 OS          : Ubuntu / Windows 11 (Dual Boot)
-Shell       : Zsh • Bash • ChefShell
+Shell       : Zsh • Bash • ChefShell (ongoing)
 Languages   : Python • Dart • C • JavaScript
-Frameworks  : Flutter • Firebase • Node.js
-Security    : Wireshark • Burp Suite • Nmap • RIPEstat
-Tools       : Git • Linux • Docker • Figma
-Editor      : VS Code (Vim Keybindings)
+Frameworks  : Flutter 
+Security    : Wireshark • Nmap • RIPEstat
+Tools       : Git • Linux • Docker 
+Editor      : VS Code 
 ```
 
----
-
-```bash
-$ now_playing
-```
 
 ```txt
 currently_building   : Wallflower
@@ -110,11 +75,6 @@ currently_breaking   : linux configs
 currently_drinking   : chaya
 ```
 
----
-
-```bash
-$ uptime --status
-```
 
 ```txt
 current_mode        : building cool stuffs ig
@@ -125,21 +85,6 @@ sleep_schedule      : inconsistent
 network_latency     : optimized
 ```
 
----
-
-## 📊 
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=chefken&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=chefken&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chefken&theme=tokyonight&hide_border=true&layout=compact)
-
-</div>
-
----
 
 <div align="center">
 
