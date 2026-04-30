@@ -6,13 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00FF9C&center=true&vCenter=true&width=700&lines=Network+Security+Researcher;Flutter+UI+Developer;Co-Lead+@+TinkerHub+MITS;Building+Automated+Security+Tools" />
 
----
 
-| 📍 Location | 🎓 Education | 🚀 Role |
-| :--- | :--- | :--- |
-| Kochi, Kerala | B.Tech CSE (Cybersecurity) @ MITS | Co-Lead @ TinkerHub MITS |
-
----
 
 </div>
 
