@@ -2,7 +2,7 @@
 
 # 👨‍💻 KEN SONY
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff9c&style=flat)
+![](https://komarev.com/ghpvc/?username=chefken&color=00ff9c&style=flat)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Flutter+Developer;Network+Security+Researcher;Building+impactful+tools;Co-Lead+@+TinkerHub+MITS" />
 
@@ -168,11 +168,11 @@ network_latency     : optimized
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=chefken&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=chefken&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chefken&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
 
