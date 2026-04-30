@@ -39,16 +39,16 @@ Bash
 
 
 ~/active_projects
-├── 🌸 Wallflower/
+├── Wallflower/
 │   └── telegram-integrated monitoring & alerting system
 
-├── 💻 ChefShell/
+├── ChefShell/
 │   └── custom linux terminal experiment & shell environment scripts
 
-├── 🚀 Pulse/
+├── Pulse/
 │   └── productivity ecosystem focused on high-performance workflows
 
-└── 🛠️ Converto/
+└── Converto/
     └── lightweight all-in-one utility & file conversion suite
 ```
 
