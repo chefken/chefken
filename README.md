@@ -1,87 +1,47 @@
 <div align="center">
 
 # KEN SONY
+### Cybersecurity Enthusiast
+#### Muthoot Institute of Technology and Science (MITS), Kochi
 
-### `cybersecurity student • builder • linux enjoyer`
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Flutter+Developer;Network+Security+Researcher;Building+impactful+tools;Co-Lead+@+TinkerHub+MITS" />
-
-<br>
-
-<img src="https://img.shields.io/badge/OS-Ubuntu-111111?style=flat-square&logo=ubuntu">
-<img src="https://img.shields.io/badge/Editor-VSCode-111111?style=flat-square&logo=visualstudiocode">
-<img src="https://img.shields.io/badge/Shell-Zsh-111111?style=flat-square&logo=gnubash">
-<img src="https://img.shields.io/badge/Focus-Cybersecurity-111111?style=flat-square">
-
-</div>
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00FF9C&center=true&vCenter=true&width=700&lines=Network+Security+Researcher;Flutter+UI+Developer;Co-Lead+@+TinkerHub+MITS;Building+Automated+Security+Tools" />
 
 ---
 
+| 📍 Location | 🎓 Education | 🚀 Role |
+| :--- | :--- | :--- |
+| Kochi, Kerala | B.Tech CSE (Cybersecurity) @ MITS | Co-Lead @ TinkerHub MITS |
+
+---
+
+</div>
+
+### 🛠️ Skills
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,dart,c,cpp,js,flutter,firebase,nodejs,linux,bash,docker,git,github,vscode,figma,arduino" />
+  </a>
+</p>
+
 ```bash
+ken@github:~$ skill-check
+
+[✓] cybersecurity
+[✓] flutter ui
+[✓] linux
+[✓] networking
+[✓] automation
+[✓] breaking things accidentally
+
+Bash
+
 > initializing profile...
-> loading security modules...
-> checking hunger levels: high (searching for snacks)...
-> checking terminal theme consistency...
-> attempting to finish old side projects...
+> checking hunger levels: searching_for_biryani...
+> loading ChefShell environment...
 > system status: optimal
-> welcome, visitor.
-```
 
-<div align="center">
 
-### 🛡️ Cybersecurity Student • 🚀 Tool Builder • ⚡ Co-Lead @ TinkerHub MITS
-
-</div>
-
----
-
-```bash
-$ whoami --verbose
-```
-
-```yaml
-identity:
-  name: Ken Sony
-  role: B.Tech CSE Student (Cybersecurity Focus)
-  location: Kochi, Kerala, India
-  leadership:
-    - Co-Lead @ TinkerHub MITS
-
-specialties:
-  - network security & vulnerability assessment
-  - flutter development & polished UI
-  - ai integration & automation
-  - custom linux environments
-  - building useful tools
-
-currently_learning:
-  - reverse engineering
-  - advanced network observability
-  - threat intelligence
-  - scalable backend systems
-```
-
----
-
-```bash
-$ philosophy
-```
-
-```txt
-build tools that are:
-- secure
-- intentional
-- visually polished
-- actually useful
-```
-
----
-
-```bash
-$ tree ~/active_projects
-```
 
 ```txt
 ~/active_projects
